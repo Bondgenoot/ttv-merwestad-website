@@ -49,6 +49,16 @@
       </div>
       <div class="flex">
         <span class="inline-block font-serif text-primary-normal  w-1/3 text-base xl:text-lg font-bold">
+          Secretaris
+        </span>
+        <span class="inline-block font-sans text-black w-2/3 text-base xl:text-lg">
+          <a href="mailto:secretaris@ttvmerwestad.nl" style="text-decoration: underline;">
+            secretaris@ttvmerwestad.nl
+          </a>
+        </span>
+      </div>
+      <div class="flex">
+        <span class="inline-block font-serif text-primary-normal  w-1/3 text-base xl:text-lg font-bold">
           Webmaster
         </span>
         <span class="inline-block font-sans text-black w-2/3 text-base xl:text-lg">
@@ -57,7 +67,7 @@
           </a>
         </span>
       </div>
-      <div class="flex mb-10">
+      <div class="flex">
         <span class="inline-block font-serif text-primary-normal  w-1/3 text-base xl:text-lg font-bold">
           Penningmeester
         </span>
@@ -67,7 +77,7 @@
           </a>
         </span>
       </div>
-      <div class="flex mb-10">
+      <div class="flex">
         <span class="inline-block font-serif text-primary-normal  w-1/3 text-base xl:text-lg font-bold">
           Materiaal
         </span>
@@ -77,7 +87,7 @@
           </a>
         </span>
       </div>
-      <div class="flex">
+      <div class="flex mb-8">
         <span class="inline-block font-serif text-primary-normal  w-1/3 text-base xl:text-lg font-bold">
           Wedstrijdsecretaris
         </span>
@@ -103,7 +113,7 @@
           Dinsdag
         </span>
         <span class="inline-block font-sans text-black w-2/3 text-base xl:text-lg">
-          19:30 tot 23:00
+          19:30 tot 22:00
         </span>
       </div>
       <div class="flex">

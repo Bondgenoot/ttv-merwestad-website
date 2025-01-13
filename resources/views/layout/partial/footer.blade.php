@@ -84,8 +84,8 @@
     </div>
     <div class="w-full md:w-1/2 lg:w-1/4">
       <span class="inline-block text-white text-2xl font-serif mb-4">Locatie</span>
-      <span class="block text-base font-sans text-white">Maria Montessorilaan 3</span>
-      <span class="block text-base font-sans text-white">3312 KJ, Dordrecht</span>
+      <span class="block text-base font-sans text-white">{{ Setting::get('address') }}</span>
+      <span class="block text-base font-sans text-white">{{ Setting::get('zipcode') }}, {{ Setting::get('residence') }}</span>
       <br />
       <a href="mailto:info@ttvmerwestad.nl"
          class="block text-base font-sans text-white underline">
@@ -94,7 +94,7 @@
       <br />
       <span class="block text-white text-2xl font-serif mb-4">Openingstijden</span>
       <span class="inline-block w-24 text-base font-sans text-white">Dinsdag</span>
-      <span class="inline-block text-base font-sans text-white">19:30 tot 23:00</span><br />
+      <span class="inline-block text-base font-sans text-white">19:30 tot 22:00</span><br />
       <span class="inline-block w-24 text-base font-sans text-white">Donderdag</span>
       <span class="inline-block text-base font-sans text-white">19:30 tot 22:00</span><br />
     </div>
