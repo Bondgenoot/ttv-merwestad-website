@@ -22,7 +22,7 @@ class NovaServiceProvider extends NovaApplicationServiceProvider
         parent::boot();
 
         if(!app()->runningInConsole()) {
-            NovaSettingsTool::setSettingsFields(
+            NovaSettingsTool::addSettingsFields(
                 (new SettingsFields())->fields()
             );
         }

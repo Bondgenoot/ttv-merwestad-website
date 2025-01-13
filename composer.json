@@ -14,26 +14,26 @@
         }
     ],
     "require": {
-        "php": "^7.2.5",
+        "php": "^8.0",
         "ext-json": "*",
-        "coderello/laravel-nova-lang": "^1.4",
-        "digital-creative/conditional-container": "^1.1",
-        "epigra/nova-settings": "^1.3",
+        "coderello/laravel-nova-lang": "^1.8",
+        "digital-creative/conditional-container": "^1.4",
+        "epigra/nova-settings": "2.5.3",
         "fideloper/proxy": "^4.2",
         "fruitcake/laravel-cors": "^2.0",
-        "guzzlehttp/guzzle": "^6.3",
-        "laravel/framework": "^7.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "laravel/framework": "^9.0",
         "laravel/nova": "~3.0",
         "laravel/tinker": "^2.0",
         "manogi/nova-tiptap": "^0.6.0",
-        "mpociot/versionable": "^3.3",
-        "whitecube/nova-flexible-content": "^0.2.4"
+        "mpociot/versionable": "^4.4",
+        "whitecube/nova-flexible-content": "^0.2"
     },
     "require-dev": {
-        "facade/ignition": "^2.0",
+        "spatie/laravel-ignition": "^1.7",
         "fzaninotto/faker": "^1.9.1",
         "mockery/mockery": "^1.3.1",
-        "nunomaduro/collision": "^4.1",
+        "nunomaduro/collision": "^6.1",
         "phpunit/phpunit": "^8.5"
     },
     "config": {
